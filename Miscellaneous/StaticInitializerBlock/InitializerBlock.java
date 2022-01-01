@@ -1,10 +1,6 @@
-package StaticInitializerBlock;
+package Miscellaneous.StaticInitializerBlock;
 
-import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 /**
  * Static initialization blocks are executed when the class is loaded, and you can initialize static variables
