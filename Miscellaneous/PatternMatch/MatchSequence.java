@@ -1,4 +1,4 @@
-package Iteration.PatternMatch;
+package Miscellaneous.PatternMatch;
 
 import java.util.*;
 import java.lang.Math;
